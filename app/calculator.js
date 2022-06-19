@@ -9,6 +9,13 @@ function minus(a, b) {
 function multiply(a, b) {
   return a * b;
 }
+
+function raiz(a){
+  var n;
+  n=Math.sqrt(a);
+  return n;
+}
+
 function divide(a, b) {
   if (b === 0) {
     return new Error("Can't divide by zero");
@@ -22,4 +29,5 @@ module.exports = {
   minus,
   multiply,
   divide,
+  raiz
 };

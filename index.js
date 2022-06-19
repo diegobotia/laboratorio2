@@ -10,3 +10,4 @@ var b=parseInt(secondNum);
  console.log(`Minus ${a} - ${b} = ${calculator.minus(a,b)}`);
  console.log(`Multiply ${a} * ${b} = ${calculator.multiply(a,b)}`);
  console.log(`Divide ${a} / ${b} = ${calculator.divide(a,b)}`);
+ console.log(`Raiz ${a}  = ${calculator.raiz(a)}`);
