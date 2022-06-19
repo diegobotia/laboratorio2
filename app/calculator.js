@@ -1,7 +1,15 @@
 "use strict";
 
-function add(a, b) {
-  return a + b;
+function add() {
+
+  let uno=document.getElementById("n1");  
+  let dos=document.getElementById("n2");  
+  let myTotal=document.getElementById("total");  
+  let laSuma=parseInt(uno.value) + parseInt(dos.value);  
+  myTotal.innerText="El resultado es: "+ laSuma;  
+
+
+  ///return a + b;
 }
 function minus(a, b) {
   return a - b;
