@@ -11,7 +11,7 @@ function multiply(a, b) {
 }
 function divide(a, b) {
   if (b === 0) {
-    return new Error("No puede dividir por cero");
+    return new Error("Can't divide by zero");
   } else {
     return a / b;
   }
