@@ -1,5 +1,8 @@
 # laboratorio2
 
+[![Build Status](https://app.travis-ci.com/diegobotia/laboratorio2.svg?branch=main)](https://app.travis-ci.com/diegobotia/laboratorio2)
+
+
 Implementation of a Simple Calculator with the next operations:
 * Add
 * Minus
