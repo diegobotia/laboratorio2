@@ -1,0 +1,28 @@
+{
+  "name": "laboratorio2",
+  "version": "1.0.0",
+  "description": "Calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegobotia/laboratorio2.git"
+  },
+  "keywords": [
+    "Suma",
+    "Resta",
+    "Multi",
+    "Divi"
+  ],
+  "author": "DB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegobotia/laboratorio2/issues"
+  },
+  "homepage": "https://github.com/diegobotia/laboratorio2#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
