@@ -9,6 +9,9 @@
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=laboratorio2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=laboratorio2)
 
+[![Known
+Vulnerabilities](https://snyk.io/test/github/diegobotia/laboratorio2/badge.svg)](https://snyk.io/test/github/diegobotia/laboratorio2)
+
 
 
 
