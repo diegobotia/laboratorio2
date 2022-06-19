@@ -1,6 +1,16 @@
 # laboratorio2
 
 [![Build Status](https://app.travis-ci.com/diegobotia/laboratorio2.svg?branch=main)](https://app.travis-ci.com/diegobotia/laboratorio2)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=laboratorio2&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=laboratorio2)
+
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=laboratorio2&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=laboratorio2)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=laboratorio2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=laboratorio2)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=laboratorio2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=laboratorio2)
+
+
+
 
 
 Implementation of a Simple Calculator with the next operations:
