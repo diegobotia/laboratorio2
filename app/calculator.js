@@ -11,9 +11,10 @@ function multiply(a, b) {
 }
 
 function raiz(a){
-  var n;
-  n=Math.sqrt(a);
-  return n;
+  var n=0;
+  
+return Math.sqrt(a);
+  
 }
 
 function divide(a, b) {
